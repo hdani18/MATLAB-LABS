@@ -18,9 +18,9 @@ function imhsv = RGB2HSV()
   
   % plot the results
   subplot(1,2,1),imshow(img);
-  title('Original RGB image','FontSize',18);
+  title('Original RGB image','FontSize',10);
   
   subplot(1,2,2),imshow(imhsv);
-  title('HSV image','FontSize',18);
+  title('HSV image','FontSize',10);
   
 end

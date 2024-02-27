@@ -22,9 +22,9 @@ function resimg = vertical_flip()
 
   % plot the results
   subplot(1,2,1),imshow(img);
-  title('Original Image','FontSize',18);
+  title('Original Image','FontSize',10);
   
   subplot(1,2,2),imshow(resimg);
-  title('Vertically Flipped Image','FontSize',18);
+  title('Vertically Flipped Image','FontSize',10);
 
 end

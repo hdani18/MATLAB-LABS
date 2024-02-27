@@ -18,12 +18,12 @@ function imyiq = RGB2NTSC()
   
   % plot the results
   subplot(1,3,1),imshow(img);
-  title('Original RGB image','FontSize',18);
+  title('Original RGB image','FontSize',10);
   
   subplot(1,3,2),imshow(imyiq);
-  title('NTSC image','FontSize',18);
+  title('NTSC image','FontSize',10);
   
   subplot(1,3,3),imshow(imyiq(:,:,1));
-  title('Illuminance Component','FontSize',18);
+  title('Illuminance Component','FontSize',10);
 
 end

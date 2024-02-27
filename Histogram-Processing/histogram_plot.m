@@ -37,7 +37,7 @@ function [count, grayscale] = histogram_plot()
   
   % Plot the histogram
   subplot(1, 2, 2);
-  bar(grayscale, count, 'BarWidth', 1);
+  bar(grayscale, count, 'BarWidth', 10);
   
   % Define xlabel
   xlabel('Gray Level','FontSize',20);

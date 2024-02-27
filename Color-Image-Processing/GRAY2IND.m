@@ -18,9 +18,9 @@ function imind = GRAY2IND()
   
   % plot the results
   subplot(1,2,1),imshow(img);
-  title('Original RGB image','FontSize',18);
+  title('Original RGB image','FontSize',10);
   
   subplot(1,2,2),imshow(imind);
-  title('Indexed image','FontSize',18);
+  title('Indexed image','FontSize',10);
   
 end

@@ -25,9 +25,9 @@ function resimg = horizontal_reflection()
 
   % plot the results
   subplot(1,2,1),imshow(img);
-  title('Original Image','FontSize',18);
+  title('Original Image','FontSize',10);
   
   subplot(1,2,2),imshow(resimg);
-  title('Horizontal Reflection','FontSize',18);
+  title('Horizontal Reflection','FontSize',10);
   
 end
