@@ -88,3 +88,22 @@ Erosion: This function performs morphological erosion operation on a grayscale i
 ![Erosion](https://github.com/hdani18/MATLAB-LABS/assets/93953695/ffd61696-f871-47f7-ba7c-be90286e368b)
 
 ------
+
+### Image Restoration
+------
+
+Gaussian Noise: Gaussian noise is a type of statistical noise characterized by a probability density function resembling that of the Gaussian distribution. It commonly occurs in imaging systems due to electronic noise or variations in illumination.
+
+Rayleigh Noise: Rayleigh noise is a type of noise with a probability distribution characterized by a Rayleigh distribution. It often occurs in communication systems and underwater acoustic channels.
+
+Gamma Noise: Gamma noise is a type of noise characterized by a gamma distribution. It can arise from various sources such as electronic components or background radiation.
+
+Exponential Noise: Exponential noise is a type of noise characterized by an exponential distribution. It can occur in imaging systems due to variations in illumination or sensor characteristics.
+
+Uniform Noise: Uniform noise is a type of noise characterized by a uniform probability distribution. It can occur in imaging systems due to quantization errors or sensor noise.
+
+Impulse Noise: Impulse noise, also known as salt-and-pepper noise, is a type of noise characterized by occasional bright and dark pixels. It can occur in imaging systems due to transmission errors or faults in sensor elements.
+
+<img width="854" alt="noise_result" src="https://github.com/hdani18/MATLAB-LABS/assets/93953695/e9bcec4c-2658-450c-a87f-4021a9adfa9c">
+
+------
